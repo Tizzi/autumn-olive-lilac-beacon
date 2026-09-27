@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Oracle Desk",
+      "hasCanvas": false,
+      "bodyTextLen": 2366,
+      "bodyTextHash": "0abac314a48ff6457aa275aa95f5303d934c101f2d4acdb6abf355bb65b84dcc",
+      "bodyTextPrefix": "RESEARCH DESK · RESEARCH-ONLY Oracle Desk Workbench backtest nhâ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Oracle Desk",
+      "hasCanvas": false,
+      "bodyTextLen": 2366,
+      "bodyTextHash": "0abac314a48ff6457aa275aa95f5303d934c101f2d4acdb6abf355bb65b84dcc",
+      "bodyTextPrefix": "RESEARCH DESK · RESEARCH-ONLY Oracle Desk Workbench backtest nhâ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
